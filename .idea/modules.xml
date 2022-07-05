@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayInJava.iml" filepath="$PROJECT_DIR$/ArrayInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoArray/DemoArray.iml" filepath="$PROJECT_DIR$/DemoArray/DemoArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH-1-ArrayReverse/TH-1-ArrayReverse.iml" filepath="$PROJECT_DIR$/TH-1-ArrayReverse/TH-1-ArrayReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH-2-FindElementsInArr/TH-2-FindElementsInArr.iml" filepath="$PROJECT_DIR$/TH-2-FindElementsInArr/TH-2-FindElementsInArr.iml" />
     </modules>
   </component>
 </project>
