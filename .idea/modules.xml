@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/TH-3-FindMaxInArr/TH-3-FindMaxInArr.iml" filepath="$PROJECT_DIR$/TH-3-FindMaxInArr/TH-3-FindMaxInArr.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-4-SwitchTemperature/TH-4-SwitchTemperature.iml" filepath="$PROJECT_DIR$/TH-4-SwitchTemperature/TH-4-SwitchTemperature.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-5-MinInArr/TH-5-MinInArr.iml" filepath="$PROJECT_DIR$/TH-5-MinInArr/TH-5-MinInArr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH-6-AppCountStudentsPass/TH-6-AppCountStudentsPass.iml" filepath="$PROJECT_DIR$/TH-6-AppCountStudentsPass/TH-6-AppCountStudentsPass.iml" />
     </modules>
   </component>
 </project>
