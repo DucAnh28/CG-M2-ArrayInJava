@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/DemoArray/DemoArray.iml" filepath="$PROJECT_DIR$/DemoArray/DemoArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-1-ArrayReverse/TH-1-ArrayReverse.iml" filepath="$PROJECT_DIR$/TH-1-ArrayReverse/TH-1-ArrayReverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-2-FindElementsInArr/TH-2-FindElementsInArr.iml" filepath="$PROJECT_DIR$/TH-2-FindElementsInArr/TH-2-FindElementsInArr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH-3-FindMaxInArr/TH-3-FindMaxInArr.iml" filepath="$PROJECT_DIR$/TH-3-FindMaxInArr/TH-3-FindMaxInArr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH-4-SwitchTemperature/TH-4-SwitchTemperature.iml" filepath="$PROJECT_DIR$/TH-4-SwitchTemperature/TH-4-SwitchTemperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH-5-MinInArr/TH-5-MinInArr.iml" filepath="$PROJECT_DIR$/TH-5-MinInArr/TH-5-MinInArr.iml" />
     </modules>
   </component>
 </project>
