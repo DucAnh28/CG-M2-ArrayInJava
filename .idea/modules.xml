@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayInJava.iml" filepath="$PROJECT_DIR$/ArrayInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT-1-DelElementInArr/BT-1-DelElementInArr.iml" filepath="$PROJECT_DIR$/BT-1-DelElementInArr/BT-1-DelElementInArr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT-2-AddElementInArr/BT-2-AddElementInArr.iml" filepath="$PROJECT_DIR$/BT-2-AddElementInArr/BT-2-AddElementInArr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT-3-Combine2Arr/BT-3-Combine2Arr.iml" filepath="$PROJECT_DIR$/BT-3-Combine2Arr/BT-3-Combine2Arr.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoArray/DemoArray.iml" filepath="$PROJECT_DIR$/DemoArray/DemoArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-1-ArrayReverse/TH-1-ArrayReverse.iml" filepath="$PROJECT_DIR$/TH-1-ArrayReverse/TH-1-ArrayReverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-2-FindElementsInArr/TH-2-FindElementsInArr.iml" filepath="$PROJECT_DIR$/TH-2-FindElementsInArr/TH-2-FindElementsInArr.iml" />
