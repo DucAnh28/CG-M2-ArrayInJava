@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class AddElementInArr {
@@ -9,17 +8,19 @@ public class AddElementInArr {
         int num = scanner.nextInt();
         System.out.print("Enter your index want to add: ");
         int index_add = scanner.nextInt();
-        int temp1 = 0;
+        if (index_add<=-1 || index_add>= array.length-1){
+            System.out.println("Can't add element in arr");
+        }
         for (int i = 0; i < array.length; i++) {
             if (i == index_add) {
-                for (int j = index_add+1; j < array.length-1; j++) {
-                    temp1 = array[i];
-                    array[i] = num;
-
+                for (int j = 0; j < array.length-index_add; j++) {
+                    array[array.length-j-1] = array[array.length-j-2];
                 }
-                break;
+                array[index_add] = num;
             }
         }
-        System.out.println(Arrays.toString(array));
+        for (int element : array){
+            System.out.print(element+"\t");
+        }
     }
 }
